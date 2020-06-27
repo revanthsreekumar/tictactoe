@@ -7,3 +7,22 @@ td  {
   font-size: 25px;
   text-align: center;
 }
+h1{
+  color: #0f5b97;
+  border: 1px solid black;
+  border-color: white;
+  background-color: white;
+}
+body{
+  background-color: #76546d;
+}
+.column {
+    font-family: "Permanent Marker", cursive;
+    width: 100px;
+    height: 100px;
+    box-shadow: 0 0 0 1px #333333;
+    border: 1px solid #333333;
+    cursor: pointer;
+line-height: 100px;
+    font-size: 60px;
+}
